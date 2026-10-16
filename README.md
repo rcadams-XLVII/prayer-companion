@@ -1,11 +1,5 @@
-# Prayer Companion
+# Prayer Companion v2
 
-Offline-first Catholic prayer PWA for GitHub Pages.
+Adds offline Rosary Mode with all four mystery sets, guided prayer steps, progress tracking, reset, dark mode, and large text.
 
-## Publish
-1. Upload every file and the `icons` folder to the repository root.
-2. Open repository **Settings > Pages**.
-3. Choose **Deploy from a branch**, `main`, and `/ (root)`.
-4. Open the published URL once while online, then add it to the iPhone Home Screen from Safari.
-
-Favorites, dark mode, and text size are kept on the device.
+Upload all files and the `icons` folder to the root of the existing GitHub repository, replacing the older files. GitHub Pages will redeploy automatically.
